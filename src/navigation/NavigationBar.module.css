@@ -1,0 +1,7 @@
+.NavigationBarContainer {
+    background-color: rgb(185, 222, 235);
+    width: 15em;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
